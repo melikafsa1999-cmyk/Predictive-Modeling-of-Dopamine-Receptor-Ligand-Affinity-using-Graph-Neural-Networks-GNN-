@@ -33,7 +33,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/Dopamine-GNN.git
+git clone https://github.com/melikafsa1999-cmyk/Predictive-Modeling-of-Dopamine-Receptor-Ligand-Affinity-using-Graph-Neural-Networks-GNN.git
 cd Dopamine-GNN
 Install dependencies:
 
